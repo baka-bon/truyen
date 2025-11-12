@@ -4,14 +4,66 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title> Truyện </title>
+        <style>
+            /* Responsive list with logo on left and text on right */
+            :root{ --gap:12px; --logo-size:56px; }
+            body{ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; padding:18px; line-height:1.3; }
+            h1{ margin-top:0; }
+            ul.site-list{ list-style:none; padding:0; margin:0; display:flex; flex-direction:column; gap:12px; }
+            ul.site-list li{ background:#fff; border:1px solid #e6e6e6; border-radius:8px; overflow:hidden; box-shadow:0 1px 2px rgba(0,0,0,0.04); }
+            a.site-link{ display:flex; gap:var(--gap); text-decoration:none; color:inherit; padding:10px; align-items:center; }
+            .site-logo{ flex:0 0 var(--logo-size); width:var(--logo-size); height:var(--logo-size); border-radius:8px; background-color:#f2f2f2; display:inline-flex; align-items:center; justify-content:center; font-weight:600; color:#666; font-size:14px; overflow:hidden; }
+            .site-logo img{ max-width:100%; max-height:100%; display:block; object-fit:cover; }
+            .site-meta{ display:flex; flex-direction:column; min-width:0; }
+            .site-title{ font-size:16px; font-weight:600; color:#111; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+            .site-desc{ font-size:13px; color:#666; margin-top:4px; overflow:hidden; text-overflow:ellipsis; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; line-clamp:2; }
+
+            /* Larger screens: increase logo size and spacing */
+            @media(min-width:760px){ :root{ --logo-size:64px; --gap:16px } .site-title{ font-size:18px } }
+
+            /* High-contrast focus for keyboard users */
+            a.site-link:focus{ outline:3px solid #b3d4ff; outline-offset:2px; }
+        </style>
     </head>
     <body>
         <h1> Truyện </h1>
-        <ul>
-            <li><a id="https://truyenc.com/tim-truyen-18" href="../truyenc/"> Truyện 18+ hay nhất, Truyện 18+ mới nhất - TruyenC </a></li>
-            <li><a id="https://truyensextv55.com/" href="../truyensextv/"> TruyenSexTV - Truyện sex hay, đọc truyện sex miễn phí </a></li>
-            <li><a id="https://truyencogiaothao.cc/" href="../truyencogiaothao/"> Truyện Cô Giáo Thảo | Đọc Truyện Cô Giáo Thảo 18+ </a></li>
-            <li><a id="https://doctruyen14.net/" href="../doctruyen14/"> Doc Truyen | Đọc Truyện Online </a></li>
+        <ul class="site-list">
+            <li>
+                <a class="site-link" id="https://truyensextv55.com/" href="../truyensextv/">
+                    <span class="site-logo" aria-hidden="true"><img alt="TruyenSexTV logo" src="../truyensextv/favicon.ico" onerror="this.style.display='none'">TS</span>
+                    <span class="site-meta">
+                        <span class="site-title">TruyenSexTV</span>
+                        <span class="site-desc">Truyện sex hay, đọc truyện sex miễn phí</span>
+                    </span>
+                </a>
+            </li>
+            <li>
+                <a class="site-link" id="https://truyencogiaothao.cc/" href="../truyencogiaothao/">
+                    <span class="site-logo" aria-hidden="true"><img alt="TruyenCoGiaoThao logo" src="../truyencogiaothao/wp-content/uploads/2020/09/cropped-logo-18-png-18-192x192.png" onerror="this.style.display='none'">TG</span>
+                    <span class="site-meta">
+                        <span class="site-title">Truyện Cô Giáo Thảo</span>
+                        <span class="site-desc">Đọc Truyện Cô Giáo Thảo 18+</span>
+                    </span>
+                </a>
+            </li>
+            <li>
+                <a class="site-link" id="https://truyenc.com/tim-truyen-18" href="../truyenc/">
+                    <span class="site-logo" aria-hidden="true"><img alt="TruyenC logo" src="../truyenc/truyenc.com/static/images/icons/icon-180x180.png" onerror="this.style.display='none'">TC</span>
+                    <span class="site-meta">
+                        <span class="site-title">TruyenC</span>
+                        <span class="site-desc">Truyện 18+ hay nhất, Truyện 18+ mới nhất</span>
+                    </span>
+                </a>
+            </li>
+            <li>
+                <a class="site-link" id="https://doctruyen14.net/" href="../doctruyen14/">
+                    <span class="site-logo" aria-hidden="true"><img alt="DocTruyen logo" src="../doctruyen14/wp-content/uploads/2015/10/14-1.png" onerror="this.style.display='none'">DT</span>
+                    <span class="site-meta">
+                        <span class="site-title">DocTruyen14</span>
+                        <span class="site-desc">Đọc Truyện Online</span>
+                    </span>
+                </a>
+            </li>
         </ul>
     </body>
 </html>
