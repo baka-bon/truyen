@@ -1,0 +1,118 @@
+[
+    {
+        "videoId": "10028",
+        "title": "Turbulent",
+        "tags": [
+            "For all",
+            "Romance",
+            "Urban"
+        ],
+        "currentSegment": {
+            "id": "10028_segment_0",
+            "videoId": "10028",
+            "segmentIndex": 0,
+            "visibility": "public",
+            "assetKey": "09dd70b3-7330-484c-9f30-780d76346535",
+            "multiAudioAssetKey": "09dd70b3-7330-484c-9f30-780d76346535",
+            "publishedAudioVariant": "multi",
+            "assetSource": "bunny_stream",
+            "imageUrl": "https://vz-e2d1520f-0ba.b-cdn.net/09dd70b3-7330-484c-9f30-780d76346535/thumbnail.jpg",
+            "mediaType": "video",
+            "aspectRatio": "9:16",
+            "width": 900,
+            "height": 1600,
+            "durationMs": 27500,
+            "audioLanguages": [
+                "zh",
+                "en",
+                "ja",
+                "ko"
+            ],
+            "speechLanguage": "zh",
+            "hasHumanSpeech": true,
+            "signedUrl": "https://vz-e2d1520f-0ba.b-cdn.net/09dd70b3-7330-484c-9f30-780d76346535/playlist.m3u8",
+            "fallbackUrl": "https://vz-e2d1520f-0ba.b-cdn.net/09dd70b3-7330-484c-9f30-780d76346535/play_720p.mp4"
+        },
+        "unlockedHiddenSegmentCount": 2,
+        "nextContinueIndex": 3,
+        "hiddenSegments": [
+            {
+                "id": "10028_segment_1",
+                "videoId": "10028",
+                "segmentIndex": 1,
+                "visibility": "hidden",
+                "assetKey": "533104e9-4a6d-4bd7-8808-039d1d79d71b",
+                "singleAudioAssetKey": "310f7b7c-bf66-481d-8f4b-a014234fefb0",
+                "multiAudioAssetKey": "533104e9-4a6d-4bd7-8808-039d1d79d71b",
+                "publishedAudioVariant": "multi",
+                "assetSource": "bunny_stream",
+                "mediaType": "video",
+                "aspectRatio": "9:16",
+                "width": 900,
+                "height": 1600,
+                "durationMs": 40867,
+                "audioLanguages": [
+                    "zh",
+                    "en",
+                    "ja",
+                    "ko"
+                ],
+                "speechLanguage": "zh",
+                "hasHumanSpeech": true,
+                "signedUrl": "https://vz-e2d1520f-0ba.b-cdn.net/533104e9-4a6d-4bd7-8808-039d1d79d71b/playlist.m3u8",
+                "fallbackUrl": "https://vz-e2d1520f-0ba.b-cdn.net/533104e9-4a6d-4bd7-8808-039d1d79d71b/play_720p.mp4",
+                "locked": false
+            },
+            {
+                "id": "10028_segment_2",
+                "videoId": "10028",
+                "segmentIndex": 2,
+                "visibility": "hidden",
+                "assetKey": "40cd347b-53d4-415e-b5da-d9c6e76f7e4c",
+                "multiAudioAssetKey": "40cd347b-53d4-415e-b5da-d9c6e76f7e4c",
+                "publishedAudioVariant": "multi",
+                "assetSource": "bunny_stream",
+                "mediaType": "video",
+                "aspectRatio": "9:16",
+                "width": 900,
+                "height": 1600,
+                "durationMs": 47400,
+                "audioLanguages": [
+                    "zh",
+                    "en",
+                    "ja",
+                    "ko"
+                ],
+                "speechLanguage": "zh",
+                "hasHumanSpeech": true,
+                "signedUrl": "https://vz-e2d1520f-0ba.b-cdn.net/40cd347b-53d4-415e-b5da-d9c6e76f7e4c/playlist.m3u8",
+                "fallbackUrl": "https://vz-e2d1520f-0ba.b-cdn.net/40cd347b-53d4-415e-b5da-d9c6e76f7e4c/play_720p.mp4",
+                "locked": false
+            },
+            {
+                "id": "10028_segment_3",
+                "videoId": "10028",
+                "visibility": "hidden",
+                "locked": true,
+                "segmentIndex": 3,
+                "durationMs": 36467,
+                "mediaType": "video",
+                "aspectRatio": "9:16",
+                "width": 900,
+                "height": 1600
+            },
+            {
+                "id": "10028_segment_4",
+                "videoId": "10028",
+                "visibility": "hidden",
+                "locked": true,
+                "segmentIndex": 4,
+                "durationMs": 36933,
+                "mediaType": "video",
+                "aspectRatio": "9:16",
+                "width": 900,
+                "height": 1600
+            }
+        ]
+    }
+]
