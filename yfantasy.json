@@ -1,5 +1,241 @@
 [
   {
+    "videoId": "10061",
+    "title": "A Little Trick",
+    "tags": [
+      "For all",
+      "Romance",
+      "Urban"
+    ],
+    "currentSegment": {
+      "id": "10061_segment_0",
+      "videoId": "10061",
+      "segmentIndex": 0,
+      "visibility": "public",
+      "assetKey": "f6bf464b-5a45-4dd4-80c4-c91c4ab65b1d",
+      "singleAudioAssetKey": "1af05536-ea9e-4b8e-9b55-09864d535060",
+      "multiAudioAssetKey": "f6bf464b-5a45-4dd4-80c4-c91c4ab65b1d",
+      "publishedAudioVariant": "multi",
+      "assetSource": "bunny_stream",
+      "imageUrl": "https://vz-e2d1520f-0ba.b-cdn.net/1af05536-ea9e-4b8e-9b55-09864d535060/thumbnail.jpg",
+      "mediaType": "video",
+      "aspectRatio": "9:16",
+      "width": 900,
+      "height": 1600,
+      "durationMs": 24167,
+      "audioLanguages": [
+        "zh",
+        "en",
+        "ja",
+        "ko"
+      ],
+      "speechLanguage": "zh",
+      "hasHumanSpeech": null,
+      "signedUrl": "https://vz-e2d1520f-0ba.b-cdn.net/f6bf464b-5a45-4dd4-80c4-c91c4ab65b1d/playlist.m3u8",
+      "fallbackUrl": "https://vz-e2d1520f-0ba.b-cdn.net/f6bf464b-5a45-4dd4-80c4-c91c4ab65b1d/play_720p.mp4"
+    },
+    "unlockedHiddenSegmentCount": 2,
+    "nextContinueIndex": 3,
+    "hiddenSegments": [
+      {
+        "id": "10061_segment_1",
+        "videoId": "10061",
+        "segmentIndex": 1,
+        "visibility": "hidden",
+        "assetKey": "c40b855f-7c30-4d59-9c9f-9b4ae45a6654",
+        "singleAudioAssetKey": "d22bdb9f-f036-4dd0-963c-684c5604ec68",
+        "multiAudioAssetKey": "c40b855f-7c30-4d59-9c9f-9b4ae45a6654",
+        "publishedAudioVariant": "multi",
+        "assetSource": "bunny_stream",
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600,
+        "durationMs": 68058,
+        "audioLanguages": [
+          "zh",
+          "en",
+          "ja",
+          "ko"
+        ],
+        "speechLanguage": "zh",
+        "hasHumanSpeech": null,
+        "signedUrl": "https://vz-e2d1520f-0ba.b-cdn.net/c40b855f-7c30-4d59-9c9f-9b4ae45a6654/playlist.m3u8",
+        "fallbackUrl": "https://vz-e2d1520f-0ba.b-cdn.net/c40b855f-7c30-4d59-9c9f-9b4ae45a6654/play_720p.mp4",
+        "locked": false
+      },
+      {
+        "id": "10061_segment_2",
+        "videoId": "10061",
+        "segmentIndex": 2,
+        "visibility": "hidden",
+        "assetKey": "f4ebaab1-c5dc-4b37-b940-b3ec7a8906ab",
+        "singleAudioAssetKey": "7e038821-3138-415c-9f6c-03740c3814c8",
+        "multiAudioAssetKey": "f4ebaab1-c5dc-4b37-b940-b3ec7a8906ab",
+        "publishedAudioVariant": "multi",
+        "assetSource": "bunny_stream",
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600,
+        "durationMs": 49633,
+        "audioLanguages": [
+          "zh",
+          "en",
+          "ja",
+          "ko"
+        ],
+        "speechLanguage": "zh",
+        "hasHumanSpeech": null,
+        "signedUrl": "https://vz-e2d1520f-0ba.b-cdn.net/f4ebaab1-c5dc-4b37-b940-b3ec7a8906ab/playlist.m3u8",
+        "fallbackUrl": "https://vz-e2d1520f-0ba.b-cdn.net/f4ebaab1-c5dc-4b37-b940-b3ec7a8906ab/play_720p.mp4",
+        "locked": false
+      },
+      {
+        "id": "10061_segment_3",
+        "videoId": "10061",
+        "visibility": "hidden",
+        "locked": true,
+        "segmentIndex": 3,
+        "durationMs": 44700,
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600
+      },
+      {
+        "id": "10061_segment_4",
+        "videoId": "10061",
+        "visibility": "hidden",
+        "locked": true,
+        "segmentIndex": 4,
+        "durationMs": 63089,
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "videoId": "10060",
+    "title": "Hard To Resist",
+    "tags": [
+      "For all",
+      "Romance",
+      "Classic"
+    ],
+    "currentSegment": {
+      "id": "10060_segment_0",
+      "videoId": "10060",
+      "segmentIndex": 0,
+      "visibility": "public",
+      "assetKey": "c0227578-5ebf-4816-8d1c-38bc80615360",
+      "singleAudioAssetKey": "e64179f6-8617-41d9-a73f-a36a513584d6",
+      "multiAudioAssetKey": "c0227578-5ebf-4816-8d1c-38bc80615360",
+      "publishedAudioVariant": "multi",
+      "assetSource": "bunny_stream",
+      "imageUrl": "https://vz-e2d1520f-0ba.b-cdn.net/e64179f6-8617-41d9-a73f-a36a513584d6/thumbnail.jpg",
+      "mediaType": "video",
+      "aspectRatio": "9:16",
+      "width": 900,
+      "height": 1600,
+      "durationMs": 29420,
+      "audioLanguages": [
+        "zh",
+        "en",
+        "ja",
+        "ko"
+      ],
+      "speechLanguage": "ko",
+      "hasHumanSpeech": null,
+      "signedUrl": "https://vz-e2d1520f-0ba.b-cdn.net/c0227578-5ebf-4816-8d1c-38bc80615360/playlist.m3u8",
+      "fallbackUrl": "https://vz-e2d1520f-0ba.b-cdn.net/c0227578-5ebf-4816-8d1c-38bc80615360/play_720p.mp4"
+    },
+    "unlockedHiddenSegmentCount": 2,
+    "nextContinueIndex": 3,
+    "hiddenSegments": [
+      {
+        "id": "10060_segment_1",
+        "videoId": "10060",
+        "segmentIndex": 1,
+        "visibility": "hidden",
+        "assetKey": "8e48f878-bcd2-4bd5-a3ba-4c005ac24403",
+        "singleAudioAssetKey": "512650ea-0d6e-4cbf-98c6-aa3b3b3235c9",
+        "multiAudioAssetKey": "8e48f878-bcd2-4bd5-a3ba-4c005ac24403",
+        "publishedAudioVariant": "multi",
+        "assetSource": "bunny_stream",
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600,
+        "durationMs": 54057,
+        "audioLanguages": [
+          "zh",
+          "en",
+          "ja",
+          "ko"
+        ],
+        "speechLanguage": "ko",
+        "hasHumanSpeech": null,
+        "signedUrl": "https://vz-e2d1520f-0ba.b-cdn.net/8e48f878-bcd2-4bd5-a3ba-4c005ac24403/playlist.m3u8",
+        "fallbackUrl": "https://vz-e2d1520f-0ba.b-cdn.net/8e48f878-bcd2-4bd5-a3ba-4c005ac24403/play_720p.mp4",
+        "locked": false
+      },
+      {
+        "id": "10060_segment_2",
+        "videoId": "10060",
+        "segmentIndex": 2,
+        "visibility": "hidden",
+        "assetKey": "6164cfbc-9e39-47cd-b786-e9273a46c345",
+        "singleAudioAssetKey": "f1c629f5-19fc-4e50-8f4e-852ebadc2169",
+        "multiAudioAssetKey": "6164cfbc-9e39-47cd-b786-e9273a46c345",
+        "publishedAudioVariant": "multi",
+        "assetSource": "bunny_stream",
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600,
+        "durationMs": 54544,
+        "audioLanguages": [
+          "zh",
+          "en",
+          "ja",
+          "ko"
+        ],
+        "speechLanguage": "ko",
+        "hasHumanSpeech": null,
+        "signedUrl": "https://vz-e2d1520f-0ba.b-cdn.net/6164cfbc-9e39-47cd-b786-e9273a46c345/playlist.m3u8",
+        "fallbackUrl": "https://vz-e2d1520f-0ba.b-cdn.net/6164cfbc-9e39-47cd-b786-e9273a46c345/play_720p.mp4",
+        "locked": false
+      },
+      {
+        "id": "10060_segment_3",
+        "videoId": "10060",
+        "visibility": "hidden",
+        "locked": true,
+        "segmentIndex": 3,
+        "durationMs": 58608,
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600
+      },
+      {
+        "id": "10060_segment_4",
+        "videoId": "10060",
+        "visibility": "hidden",
+        "locked": true,
+        "segmentIndex": 4,
+        "durationMs": 72586,
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600
+      }
+    ]
+  },
+  {
     "videoId": "10059",
     "title": "Corrupted Campus",
     "tags": [
