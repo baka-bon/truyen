@@ -1,5 +1,120 @@
 [
   {
+    "videoId": "10063",
+    "title": "Practice of Dao",
+    "tags": [
+      "For all",
+      "Romance",
+      "Wuxia"
+    ],
+    "currentSegment": {
+      "id": "10063_segment_0",
+      "videoId": "10063",
+      "segmentIndex": 0,
+      "visibility": "public",
+      "assetKey": "5f6bc981-8760-41af-a373-6dedcf22d3d4",
+      "singleAudioAssetKey": "45f326d6-f699-4519-a2b7-2a6cf0d8356a",
+      "multiAudioAssetKey": "5f6bc981-8760-41af-a373-6dedcf22d3d4",
+      "publishedAudioVariant": "multi",
+      "assetSource": "bunny_stream",
+      "imageUrl": "https://vz-e2d1520f-0ba.b-cdn.net/45f326d6-f699-4519-a2b7-2a6cf0d8356a/thumbnail.jpg",
+      "mediaType": "video",
+      "aspectRatio": "9:16",
+      "width": 900,
+      "height": 1600,
+      "durationMs": 26467,
+      "audioLanguages": [
+        "zh",
+        "en",
+        "ko"
+      ],
+      "speechLanguage": "zh",
+      "hasHumanSpeech": null,
+      "signedUrl": "https://vz-e2d1520f-0ba.b-cdn.net/5f6bc981-8760-41af-a373-6dedcf22d3d4/playlist.m3u8",
+      "fallbackUrl": "https://vz-e2d1520f-0ba.b-cdn.net/5f6bc981-8760-41af-a373-6dedcf22d3d4/play_720p.mp4"
+    },
+    "unlockedHiddenSegmentCount": 2,
+    "nextContinueIndex": 3,
+    "hiddenSegments": [
+      {
+        "id": "10063_segment_1",
+        "videoId": "10063",
+        "segmentIndex": 1,
+        "visibility": "hidden",
+        "assetKey": "4f5756b6-d4b7-4760-be90-f5a7f1232d7d",
+        "singleAudioAssetKey": "b59a854a-beba-445d-8dbc-17707829b147",
+        "multiAudioAssetKey": "4f5756b6-d4b7-4760-be90-f5a7f1232d7d",
+        "publishedAudioVariant": "multi",
+        "assetSource": "bunny_stream",
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600,
+        "durationMs": 58733,
+        "audioLanguages": [
+          "zh",
+          "en",
+          "ko"
+        ],
+        "speechLanguage": "zh",
+        "hasHumanSpeech": null,
+        "signedUrl": "https://vz-e2d1520f-0ba.b-cdn.net/4f5756b6-d4b7-4760-be90-f5a7f1232d7d/playlist.m3u8",
+        "fallbackUrl": "https://vz-e2d1520f-0ba.b-cdn.net/4f5756b6-d4b7-4760-be90-f5a7f1232d7d/play_720p.mp4",
+        "locked": false
+      },
+      {
+        "id": "10063_segment_2",
+        "videoId": "10063",
+        "segmentIndex": 2,
+        "visibility": "hidden",
+        "assetKey": "a4ae182e-198f-4468-a181-d4fd7edcebee",
+        "singleAudioAssetKey": "d0417f31-aff1-4a9d-b91c-8bd7b7200d83",
+        "multiAudioAssetKey": "a4ae182e-198f-4468-a181-d4fd7edcebee",
+        "publishedAudioVariant": "multi",
+        "assetSource": "bunny_stream",
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600,
+        "durationMs": 68824,
+        "audioLanguages": [
+          "zh",
+          "en",
+          "ko"
+        ],
+        "speechLanguage": "zh",
+        "hasHumanSpeech": null,
+        "signedUrl": "https://vz-e2d1520f-0ba.b-cdn.net/a4ae182e-198f-4468-a181-d4fd7edcebee/playlist.m3u8",
+        "fallbackUrl": "https://vz-e2d1520f-0ba.b-cdn.net/a4ae182e-198f-4468-a181-d4fd7edcebee/play_720p.mp4",
+        "locked": false
+      },
+      {
+        "id": "10063_segment_3",
+        "videoId": "10063",
+        "visibility": "hidden",
+        "locked": true,
+        "segmentIndex": 3,
+        "durationMs": 41467,
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600
+      },
+      {
+        "id": "10063_segment_4",
+        "videoId": "10063",
+        "visibility": "hidden",
+        "locked": true,
+        "segmentIndex": 4,
+        "durationMs": 60326,
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600
+      }
+    ]
+  },
+  {
     "videoId": "10062",
     "title": "Dragon Rider",
     "tags": [
