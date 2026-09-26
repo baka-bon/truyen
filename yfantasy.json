@@ -1,5 +1,121 @@
 [
   {
+    "videoId": "10064",
+    "title": "A Stolen Kiss",
+    "tags": [
+      "For all",
+      "Romance",
+      "Classic"
+    ],
+    "currentSegment": {
+      "id": "10064_segment_0",
+      "videoId": "10064",
+      "segmentIndex": 0,
+      "visibility": "public",
+      "assetKey": "5486a327-c521-42b2-814c-c9200cbf23e6",
+      "singleAudioAssetKey": "c2c35c79-72fc-4ad2-a2f0-746bbb5ec1c2",
+      "multiAudioAssetKey": "5486a327-c521-42b2-814c-c9200cbf23e6",
+      "publishedAudioVariant": "multi",
+      "assetSource": "bunny_stream",
+      "imageUrl": "https://vz-e2d1520f-0ba.b-cdn.net/c2c35c79-72fc-4ad2-a2f0-746bbb5ec1c2/thumbnail.jpg",
+      "mediaType": "video",
+      "aspectRatio": "9:16",
+      "width": 900,
+      "height": 1600,
+      "durationMs": 30001,
+      "audioLanguages": [
+        "zh",
+        "en",
+        "ko"
+      ],
+      "speechLanguage": "ko",
+      "hasHumanSpeech": null,
+      "signedUrl": "https://vz-e2d1520f-0ba.b-cdn.net/5486a327-c521-42b2-814c-c9200cbf23e6/playlist.m3u8",
+      "fallbackUrl": "https://vz-e2d1520f-0ba.b-cdn.net/5486a327-c521-42b2-814c-c9200cbf23e6/play_720p.mp4"
+    },
+    "unlockedHiddenSegmentCount": 2,
+    "nextContinueIndex": 3,
+    "accessExpiresAt": null,
+    "hiddenSegments": [
+      {
+        "id": "10064_segment_1",
+        "videoId": "10064",
+        "segmentIndex": 1,
+        "visibility": "hidden",
+        "assetKey": "6baf43e1-7948-4a4b-8fc6-fb7cfbc56684",
+        "singleAudioAssetKey": "e94ea2ad-7d44-44d9-9cb0-6a76451ec1f3",
+        "multiAudioAssetKey": "6baf43e1-7948-4a4b-8fc6-fb7cfbc56684",
+        "publishedAudioVariant": "multi",
+        "assetSource": "bunny_stream",
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600,
+        "durationMs": 47509,
+        "audioLanguages": [
+          "zh",
+          "en",
+          "ko"
+        ],
+        "speechLanguage": "ko",
+        "hasHumanSpeech": null,
+        "signedUrl": "https://vz-e2d1520f-0ba.b-cdn.net/6baf43e1-7948-4a4b-8fc6-fb7cfbc56684/playlist.m3u8",
+        "fallbackUrl": "https://vz-e2d1520f-0ba.b-cdn.net/6baf43e1-7948-4a4b-8fc6-fb7cfbc56684/play_720p.mp4",
+        "locked": false
+      },
+      {
+        "id": "10064_segment_2",
+        "videoId": "10064",
+        "segmentIndex": 2,
+        "visibility": "hidden",
+        "assetKey": "de3c6ff2-367d-4f5f-886c-c25b40d38fb1",
+        "singleAudioAssetKey": "af1cc85f-7a20-4e27-bd6e-2a25d87eb6be",
+        "multiAudioAssetKey": "de3c6ff2-367d-4f5f-886c-c25b40d38fb1",
+        "publishedAudioVariant": "multi",
+        "assetSource": "bunny_stream",
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600,
+        "durationMs": 59049,
+        "audioLanguages": [
+          "zh",
+          "en",
+          "ko"
+        ],
+        "speechLanguage": "ko",
+        "hasHumanSpeech": null,
+        "signedUrl": "https://vz-e2d1520f-0ba.b-cdn.net/de3c6ff2-367d-4f5f-886c-c25b40d38fb1/playlist.m3u8",
+        "fallbackUrl": "https://vz-e2d1520f-0ba.b-cdn.net/de3c6ff2-367d-4f5f-886c-c25b40d38fb1/play_720p.mp4",
+        "locked": false
+      },
+      {
+        "id": "10064_segment_3",
+        "videoId": "10064",
+        "visibility": "hidden",
+        "locked": true,
+        "segmentIndex": 3,
+        "durationMs": 39103,
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600
+      },
+      {
+        "id": "10064_segment_4",
+        "videoId": "10064",
+        "visibility": "hidden",
+        "locked": true,
+        "segmentIndex": 4,
+        "durationMs": 59908,
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600
+      }
+    ]
+  },
+  {
     "videoId": "10063",
     "title": "Practice of Dao",
     "tags": [
