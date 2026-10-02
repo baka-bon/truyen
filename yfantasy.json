@@ -1,5 +1,121 @@
 [
   {
+    "videoId": "10067",
+    "title": "Hard To Answer",
+    "tags": [
+      "For all",
+      "Power",
+      "Urban"
+    ],
+    "currentSegment": {
+      "id": "10067_segment_0",
+      "videoId": "10067",
+      "segmentIndex": 0,
+      "visibility": "public",
+      "assetKey": "c394fea0-d0af-41e8-a385-c3f8188462e9",
+      "singleAudioAssetKey": "e569c894-d466-4483-bb3b-2cf54f8e8c23",
+      "multiAudioAssetKey": "c394fea0-d0af-41e8-a385-c3f8188462e9",
+      "publishedAudioVariant": "multi",
+      "assetSource": "bunny_stream",
+      "imageUrl": "https://vz-e2d1520f-0ba.b-cdn.net/e569c894-d466-4483-bb3b-2cf54f8e8c23/thumbnail.jpg",
+      "mediaType": "video",
+      "aspectRatio": "9:16",
+      "width": 900,
+      "height": 1600,
+      "durationMs": 30833,
+      "audioLanguages": [
+        "zh",
+        "en",
+        "ko"
+      ],
+      "speechLanguage": "zh",
+      "hasHumanSpeech": null,
+      "signedUrl": "https://vz-e2d1520f-0ba.b-cdn.net/c394fea0-d0af-41e8-a385-c3f8188462e9/playlist.m3u8",
+      "fallbackUrl": "https://vz-e2d1520f-0ba.b-cdn.net/c394fea0-d0af-41e8-a385-c3f8188462e9/play_720p.mp4"
+    },
+    "unlockedHiddenSegmentCount": 2,
+    "nextContinueIndex": 3,
+    "accessExpiresAt": null,
+    "hiddenSegments": [
+      {
+        "id": "10067_segment_1",
+        "videoId": "10067",
+        "segmentIndex": 1,
+        "visibility": "hidden",
+        "assetKey": "958c8551-64c3-4140-bb6d-ba0939cd4f67",
+        "singleAudioAssetKey": "3f78866f-75a2-4e6f-9dae-5ec0abaa4626",
+        "multiAudioAssetKey": "958c8551-64c3-4140-bb6d-ba0939cd4f67",
+        "publishedAudioVariant": "multi",
+        "assetSource": "bunny_stream",
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600,
+        "durationMs": 57967,
+        "audioLanguages": [
+          "zh",
+          "en",
+          "ko"
+        ],
+        "speechLanguage": "zh",
+        "hasHumanSpeech": null,
+        "signedUrl": "https://vz-e2d1520f-0ba.b-cdn.net/958c8551-64c3-4140-bb6d-ba0939cd4f67/playlist.m3u8",
+        "fallbackUrl": "https://vz-e2d1520f-0ba.b-cdn.net/958c8551-64c3-4140-bb6d-ba0939cd4f67/play_720p.mp4",
+        "locked": false
+      },
+      {
+        "id": "10067_segment_2",
+        "videoId": "10067",
+        "segmentIndex": 2,
+        "visibility": "hidden",
+        "assetKey": "fbe9f7be-fb6a-464b-b2c8-68aafa5600e1",
+        "singleAudioAssetKey": "2db6da9f-dfe5-4ca2-a77f-65793c3a2ac3",
+        "multiAudioAssetKey": "fbe9f7be-fb6a-464b-b2c8-68aafa5600e1",
+        "publishedAudioVariant": "multi",
+        "assetSource": "bunny_stream",
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600,
+        "durationMs": 44200,
+        "audioLanguages": [
+          "zh",
+          "en",
+          "ko"
+        ],
+        "speechLanguage": "zh",
+        "hasHumanSpeech": null,
+        "signedUrl": "https://vz-e2d1520f-0ba.b-cdn.net/fbe9f7be-fb6a-464b-b2c8-68aafa5600e1/playlist.m3u8",
+        "fallbackUrl": "https://vz-e2d1520f-0ba.b-cdn.net/fbe9f7be-fb6a-464b-b2c8-68aafa5600e1/play_720p.mp4",
+        "locked": false
+      },
+      {
+        "id": "10067_segment_3",
+        "videoId": "10067",
+        "visibility": "hidden",
+        "locked": true,
+        "segmentIndex": 3,
+        "durationMs": 45933,
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600
+      },
+      {
+        "id": "10067_segment_4",
+        "videoId": "10067",
+        "visibility": "hidden",
+        "locked": true,
+        "segmentIndex": 4,
+        "durationMs": 46433,
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600
+      }
+    ]
+  },
+  {
     "videoId": "10066",
     "title": "Price of Love",
     "tags": [
