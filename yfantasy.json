@@ -1,5 +1,121 @@
 [
   {
+    "videoId": "10068",
+    "title": "Charm Clash",
+    "tags": [
+      "For all",
+      "Reverse",
+      "Urban"
+    ],
+    "currentSegment": {
+      "id": "10068_segment_0",
+      "videoId": "10068",
+      "segmentIndex": 0,
+      "visibility": "public",
+      "assetKey": "acd7b282-51b0-4b38-855d-114d3a92767f",
+      "singleAudioAssetKey": "ac16270f-f158-426c-938f-00db1e960a80",
+      "multiAudioAssetKey": "acd7b282-51b0-4b38-855d-114d3a92767f",
+      "publishedAudioVariant": "multi",
+      "assetSource": "bunny_stream",
+      "imageUrl": "https://vz-e2d1520f-0ba.b-cdn.net/ac16270f-f158-426c-938f-00db1e960a80/thumbnail.jpg",
+      "mediaType": "video",
+      "aspectRatio": "9:16",
+      "width": 900,
+      "height": 1600,
+      "durationMs": 29978,
+      "audioLanguages": [
+        "zh",
+        "en",
+        "ko"
+      ],
+      "speechLanguage": "zh",
+      "hasHumanSpeech": null,
+      "signedUrl": "https://vz-e2d1520f-0ba.b-cdn.net/acd7b282-51b0-4b38-855d-114d3a92767f/playlist.m3u8",
+      "fallbackUrl": "https://vz-e2d1520f-0ba.b-cdn.net/acd7b282-51b0-4b38-855d-114d3a92767f/play_720p.mp4"
+    },
+    "unlockedHiddenSegmentCount": 2,
+    "nextContinueIndex": 3,
+    "accessExpiresAt": null,
+    "hiddenSegments": [
+      {
+        "id": "10068_segment_1",
+        "videoId": "10068",
+        "segmentIndex": 1,
+        "visibility": "hidden",
+        "assetKey": "2df16984-5592-45cb-92f8-1a3067c2aa1e",
+        "singleAudioAssetKey": "9f871ce0-8997-42d8-9041-1c30ba7ae8ee",
+        "multiAudioAssetKey": "2df16984-5592-45cb-92f8-1a3067c2aa1e",
+        "publishedAudioVariant": "multi",
+        "assetSource": "bunny_stream",
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600,
+        "durationMs": 46208,
+        "audioLanguages": [
+          "zh",
+          "en",
+          "ko"
+        ],
+        "speechLanguage": "zh",
+        "hasHumanSpeech": null,
+        "signedUrl": "https://vz-e2d1520f-0ba.b-cdn.net/2df16984-5592-45cb-92f8-1a3067c2aa1e/playlist.m3u8",
+        "fallbackUrl": "https://vz-e2d1520f-0ba.b-cdn.net/2df16984-5592-45cb-92f8-1a3067c2aa1e/play_720p.mp4",
+        "locked": false
+      },
+      {
+        "id": "10068_segment_2",
+        "videoId": "10068",
+        "segmentIndex": 2,
+        "visibility": "hidden",
+        "assetKey": "ef4e98a0-ed11-448b-9e4f-c7df38ea4870",
+        "singleAudioAssetKey": "a20780e2-8bf8-4003-8d20-9043ca48eea6",
+        "multiAudioAssetKey": "ef4e98a0-ed11-448b-9e4f-c7df38ea4870",
+        "publishedAudioVariant": "multi",
+        "assetSource": "bunny_stream",
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600,
+        "durationMs": 45906,
+        "audioLanguages": [
+          "zh",
+          "en",
+          "ko"
+        ],
+        "speechLanguage": "zh",
+        "hasHumanSpeech": null,
+        "signedUrl": "https://vz-e2d1520f-0ba.b-cdn.net/ef4e98a0-ed11-448b-9e4f-c7df38ea4870/playlist.m3u8",
+        "fallbackUrl": "https://vz-e2d1520f-0ba.b-cdn.net/ef4e98a0-ed11-448b-9e4f-c7df38ea4870/play_720p.mp4",
+        "locked": false
+      },
+      {
+        "id": "10068_segment_3",
+        "videoId": "10068",
+        "visibility": "hidden",
+        "locked": true,
+        "segmentIndex": 3,
+        "durationMs": 67060,
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600
+      },
+      {
+        "id": "10068_segment_4",
+        "videoId": "10068",
+        "visibility": "hidden",
+        "locked": true,
+        "segmentIndex": 4,
+        "durationMs": 76835,
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600
+      }
+    ]
+  },
+  {
     "videoId": "10067",
     "title": "Hard To Answer",
     "tags": [
