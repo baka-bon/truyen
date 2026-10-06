@@ -1,5 +1,121 @@
 [
   {
+    "videoId": "10069",
+    "title": "General’s March",
+    "tags": [
+      "For all",
+      "Romance",
+      "Classic"
+    ],
+    "currentSegment": {
+      "id": "10069_segment_0",
+      "videoId": "10069",
+      "segmentIndex": 0,
+      "visibility": "public",
+      "assetKey": "a044ad2a-2952-4823-a4dc-9b6126539122",
+      "singleAudioAssetKey": "61e2f216-d217-4199-8dd4-a3d6aedadd0f",
+      "multiAudioAssetKey": "a044ad2a-2952-4823-a4dc-9b6126539122",
+      "publishedAudioVariant": "multi",
+      "assetSource": "bunny_stream",
+      "imageUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-hk77_LTMDwXit5O32LONRYeYJalXep5vlcEEJ-lkuHw&token_path=%2F61e2f216-d217-4199-8dd4-a3d6aedadd0f%2F&expires=1791320408/61e2f216-d217-4199-8dd4-a3d6aedadd0f/thumbnail.jpg",
+      "mediaType": "video",
+      "aspectRatio": "9:16",
+      "width": 900,
+      "height": 1600,
+      "durationMs": 36567,
+      "audioLanguages": [
+        "zh",
+        "en",
+        "ko"
+      ],
+      "speechLanguage": "zh",
+      "hasHumanSpeech": null,
+      "signedUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-3q-pOf5t8bXXR1sZVttCvanln1xztXcKRvjkpwX8x9M&token_path=%2Fa044ad2a-2952-4823-a4dc-9b6126539122%2F&expires=1791320408/a044ad2a-2952-4823-a4dc-9b6126539122/playlist.m3u8",
+      "fallbackUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-3q-pOf5t8bXXR1sZVttCvanln1xztXcKRvjkpwX8x9M&token_path=%2Fa044ad2a-2952-4823-a4dc-9b6126539122%2F&expires=1791320408/a044ad2a-2952-4823-a4dc-9b6126539122/play_720p.mp4"
+    },
+    "unlockedHiddenSegmentCount": 2,
+    "nextContinueIndex": 3,
+    "accessExpiresAt": null,
+    "hiddenSegments": [
+      {
+        "id": "10069_segment_1",
+        "videoId": "10069",
+        "segmentIndex": 1,
+        "visibility": "hidden",
+        "assetKey": "cf76b9e1-5832-4b23-afe8-d67c85de6368",
+        "singleAudioAssetKey": "09e545e5-efb8-4e17-a686-435b9ac59174",
+        "multiAudioAssetKey": "cf76b9e1-5832-4b23-afe8-d67c85de6368",
+        "publishedAudioVariant": "multi",
+        "assetSource": "bunny_stream",
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600,
+        "durationMs": 57533,
+        "audioLanguages": [
+          "zh",
+          "en",
+          "ko"
+        ],
+        "speechLanguage": "zh",
+        "hasHumanSpeech": null,
+        "signedUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-CY3ZMkCppZe1_wAU3NgnuQ_LiIra4Kb9GkHrKOmhRU4&token_path=%2Fcf76b9e1-5832-4b23-afe8-d67c85de6368%2F&expires=1791320408/cf76b9e1-5832-4b23-afe8-d67c85de6368/playlist.m3u8",
+        "fallbackUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-CY3ZMkCppZe1_wAU3NgnuQ_LiIra4Kb9GkHrKOmhRU4&token_path=%2Fcf76b9e1-5832-4b23-afe8-d67c85de6368%2F&expires=1791320408/cf76b9e1-5832-4b23-afe8-d67c85de6368/play_720p.mp4",
+        "locked": false
+      },
+      {
+        "id": "10069_segment_2",
+        "videoId": "10069",
+        "segmentIndex": 2,
+        "visibility": "hidden",
+        "assetKey": "bbda4433-d43a-46f4-9294-762fb505ae61",
+        "singleAudioAssetKey": "d9182feb-43f5-46b1-949e-8136b2c9af68",
+        "multiAudioAssetKey": "bbda4433-d43a-46f4-9294-762fb505ae61",
+        "publishedAudioVariant": "multi",
+        "assetSource": "bunny_stream",
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600,
+        "durationMs": 57933,
+        "audioLanguages": [
+          "zh",
+          "en",
+          "ko"
+        ],
+        "speechLanguage": "zh",
+        "hasHumanSpeech": null,
+        "signedUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-ts7Zo-7wqbcqUChwdAih-kShtOVCerVdjoGAqmZk5QE&token_path=%2Fbbda4433-d43a-46f4-9294-762fb505ae61%2F&expires=1791320408/bbda4433-d43a-46f4-9294-762fb505ae61/playlist.m3u8",
+        "fallbackUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-ts7Zo-7wqbcqUChwdAih-kShtOVCerVdjoGAqmZk5QE&token_path=%2Fbbda4433-d43a-46f4-9294-762fb505ae61%2F&expires=1791320408/bbda4433-d43a-46f4-9294-762fb505ae61/play_720p.mp4",
+        "locked": false
+      },
+      {
+        "id": "10069_segment_3",
+        "videoId": "10069",
+        "visibility": "hidden",
+        "locked": true,
+        "segmentIndex": 3,
+        "durationMs": 57100,
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600
+      },
+      {
+        "id": "10069_segment_4",
+        "videoId": "10069",
+        "visibility": "hidden",
+        "locked": true,
+        "segmentIndex": 4,
+        "durationMs": 52900,
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600
+      }
+    ]
+  },
+  {
     "videoId": "10068",
     "title": "Charm Clash",
     "tags": [
