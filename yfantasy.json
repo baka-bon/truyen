@@ -1,5 +1,121 @@
 [
   {
+    "videoId": "10071",
+    "title": "Take Both",
+    "tags": [
+      "For all",
+      "Romance",
+      "Urban"
+    ],
+    "currentSegment": {
+      "id": "10071_segment_0",
+      "videoId": "10071",
+      "segmentIndex": 0,
+      "visibility": "public",
+      "assetKey": "7e3ae112-748a-48f2-ba13-bec8a0c93bc9",
+      "singleAudioAssetKey": "ea8518c6-e79f-4091-b45c-c839df985b14",
+      "multiAudioAssetKey": "7e3ae112-748a-48f2-ba13-bec8a0c93bc9",
+      "publishedAudioVariant": "multi",
+      "assetSource": "bunny_stream",
+      "imageUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-Qg9YtfF8TSFv9mrJfjz8_m4ICrp1IPjoEBV2sGT4Ryg&token_path=%2Fea8518c6-e79f-4091-b45c-c839df985b14%2F&expires=1791579611/ea8518c6-e79f-4091-b45c-c839df985b14/thumbnail.jpg",
+      "mediaType": "video",
+      "aspectRatio": "9:16",
+      "width": 900,
+      "height": 1600,
+      "durationMs": 30419,
+      "audioLanguages": [
+        "zh",
+        "en",
+        "ko"
+      ],
+      "speechLanguage": "zh",
+      "hasHumanSpeech": null,
+      "signedUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-hTzXbkuIOz7nfEuVAulEeWUmbTBuYoT09HzXr30a3A4&token_path=%2F7e3ae112-748a-48f2-ba13-bec8a0c93bc9%2F&expires=1791579611/7e3ae112-748a-48f2-ba13-bec8a0c93bc9/playlist.m3u8",
+      "fallbackUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-hTzXbkuIOz7nfEuVAulEeWUmbTBuYoT09HzXr30a3A4&token_path=%2F7e3ae112-748a-48f2-ba13-bec8a0c93bc9%2F&expires=1791579611/7e3ae112-748a-48f2-ba13-bec8a0c93bc9/play_720p.mp4"
+    },
+    "unlockedHiddenSegmentCount": 2,
+    "nextContinueIndex": 3,
+    "accessExpiresAt": null,
+    "hiddenSegments": [
+      {
+        "id": "10071_segment_1",
+        "videoId": "10071",
+        "segmentIndex": 1,
+        "visibility": "hidden",
+        "assetKey": "1559f166-2c8a-4aeb-8608-182408d87702",
+        "singleAudioAssetKey": "c98ba528-6833-45d2-9d96-745573b0a6a6",
+        "multiAudioAssetKey": "1559f166-2c8a-4aeb-8608-182408d87702",
+        "publishedAudioVariant": "multi",
+        "assetSource": "bunny_stream",
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600,
+        "durationMs": 59374,
+        "audioLanguages": [
+          "zh",
+          "en",
+          "ko"
+        ],
+        "speechLanguage": "zh",
+        "hasHumanSpeech": null,
+        "signedUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-SC-0IO1ro9PTuRFYygZe1T81XJkN67yXJ6nQKVrF_IY&token_path=%2F1559f166-2c8a-4aeb-8608-182408d87702%2F&expires=1791579611/1559f166-2c8a-4aeb-8608-182408d87702/playlist.m3u8",
+        "fallbackUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-SC-0IO1ro9PTuRFYygZe1T81XJkN67yXJ6nQKVrF_IY&token_path=%2F1559f166-2c8a-4aeb-8608-182408d87702%2F&expires=1791579611/1559f166-2c8a-4aeb-8608-182408d87702/play_720p.mp4",
+        "locked": false
+      },
+      {
+        "id": "10071_segment_2",
+        "videoId": "10071",
+        "segmentIndex": 2,
+        "visibility": "hidden",
+        "assetKey": "c8399ceb-7d18-4c2f-8ed1-b84e043746b6",
+        "singleAudioAssetKey": "46014cbc-4d6c-4ddb-9f58-baea9c16dbb5",
+        "multiAudioAssetKey": "c8399ceb-7d18-4c2f-8ed1-b84e043746b6",
+        "publishedAudioVariant": "multi",
+        "assetSource": "bunny_stream",
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600,
+        "durationMs": 45210,
+        "audioLanguages": [
+          "zh",
+          "en",
+          "ko"
+        ],
+        "speechLanguage": "zh",
+        "hasHumanSpeech": null,
+        "signedUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-2MFFqLakZNvlekwEg75dqSfA96HiPEcyNzRhr9_qu-g&token_path=%2Fc8399ceb-7d18-4c2f-8ed1-b84e043746b6%2F&expires=1791579611/c8399ceb-7d18-4c2f-8ed1-b84e043746b6/playlist.m3u8",
+        "fallbackUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-2MFFqLakZNvlekwEg75dqSfA96HiPEcyNzRhr9_qu-g&token_path=%2Fc8399ceb-7d18-4c2f-8ed1-b84e043746b6%2F&expires=1791579611/c8399ceb-7d18-4c2f-8ed1-b84e043746b6/play_720p.mp4",
+        "locked": false
+      },
+      {
+        "id": "10071_segment_3",
+        "videoId": "10071",
+        "visibility": "hidden",
+        "locked": true,
+        "segmentIndex": 3,
+        "durationMs": 53546,
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600
+      },
+      {
+        "id": "10071_segment_4",
+        "videoId": "10071",
+        "visibility": "hidden",
+        "locked": true,
+        "segmentIndex": 4,
+        "durationMs": 49273,
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600
+      }
+    ]
+  },
+  {
     "videoId": "10070",
     "title": "Mystery Order",
     "tags": [
