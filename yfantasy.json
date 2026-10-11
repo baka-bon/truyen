@@ -1,5 +1,121 @@
 [
   {
+    "videoId": "10072",
+    "title": "Lessons of Dao",
+    "tags": [
+      "For all",
+      "Romance",
+      "Wuxia"
+    ],
+    "currentSegment": {
+      "id": "10072_segment_0",
+      "videoId": "10072",
+      "segmentIndex": 0,
+      "visibility": "public",
+      "assetKey": "57b3c479-aa4b-49a5-842e-1ac922b74245",
+      "singleAudioAssetKey": "2ccdf706-3f10-4999-a470-36fa275c4c47",
+      "multiAudioAssetKey": "57b3c479-aa4b-49a5-842e-1ac922b74245",
+      "publishedAudioVariant": "multi",
+      "assetSource": "bunny_stream",
+      "imageUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-iy6ekPO4d3NAO4ryCvk1lkgfMyxqLLHvty-cxsmZIJ0&token_path=%2F2ccdf706-3f10-4999-a470-36fa275c4c47%2F&expires=1791752411/2ccdf706-3f10-4999-a470-36fa275c4c47/thumbnail.jpg",
+      "mediaType": "video",
+      "aspectRatio": "9:16",
+      "width": 900,
+      "height": 1600,
+      "durationMs": 30067,
+      "audioLanguages": [
+        "zh",
+        "en",
+        "ko"
+      ],
+      "speechLanguage": "zh",
+      "hasHumanSpeech": null,
+      "signedUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256--VwlUw2cdxV2Y2g_4AgnANQ9ANxVmSap0hMbkbil_1s&token_path=%2F57b3c479-aa4b-49a5-842e-1ac922b74245%2F&expires=1791752411/57b3c479-aa4b-49a5-842e-1ac922b74245/playlist.m3u8",
+      "fallbackUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256--VwlUw2cdxV2Y2g_4AgnANQ9ANxVmSap0hMbkbil_1s&token_path=%2F57b3c479-aa4b-49a5-842e-1ac922b74245%2F&expires=1791752411/57b3c479-aa4b-49a5-842e-1ac922b74245/play_720p.mp4"
+    },
+    "unlockedHiddenSegmentCount": 2,
+    "nextContinueIndex": 3,
+    "accessExpiresAt": null,
+    "hiddenSegments": [
+      {
+        "id": "10072_segment_1",
+        "videoId": "10072",
+        "segmentIndex": 1,
+        "visibility": "hidden",
+        "assetKey": "a66d440d-9d55-441b-8d44-c434a1f74496",
+        "singleAudioAssetKey": "b9d47b5c-98ff-4a85-a2b1-4613fb2e4293",
+        "multiAudioAssetKey": "a66d440d-9d55-441b-8d44-c434a1f74496",
+        "publishedAudioVariant": "multi",
+        "assetSource": "bunny_stream",
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600,
+        "durationMs": 48667,
+        "audioLanguages": [
+          "zh",
+          "en",
+          "ko"
+        ],
+        "speechLanguage": "zh",
+        "hasHumanSpeech": null,
+        "signedUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-noYi-UuKWxF7QmygOBoG20JX80eTfQviHPvDFcb4RWw&token_path=%2Fa66d440d-9d55-441b-8d44-c434a1f74496%2F&expires=1791752411/a66d440d-9d55-441b-8d44-c434a1f74496/playlist.m3u8",
+        "fallbackUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-noYi-UuKWxF7QmygOBoG20JX80eTfQviHPvDFcb4RWw&token_path=%2Fa66d440d-9d55-441b-8d44-c434a1f74496%2F&expires=1791752411/a66d440d-9d55-441b-8d44-c434a1f74496/play_720p.mp4",
+        "locked": false
+      },
+      {
+        "id": "10072_segment_2",
+        "videoId": "10072",
+        "segmentIndex": 2,
+        "visibility": "hidden",
+        "assetKey": "b3072bf7-6dbb-459b-97be-31b8f4cdc292",
+        "singleAudioAssetKey": "f62febaf-90aa-4c78-bc06-19a875bb12fe",
+        "multiAudioAssetKey": "b3072bf7-6dbb-459b-97be-31b8f4cdc292",
+        "publishedAudioVariant": "multi",
+        "assetSource": "bunny_stream",
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600,
+        "durationMs": 49733,
+        "audioLanguages": [
+          "zh",
+          "en",
+          "ko"
+        ],
+        "speechLanguage": "zh",
+        "hasHumanSpeech": null,
+        "signedUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-z6MVj-2HYFj2_IbITaQ5s3GxLdyGvyrtaOOlKlHKGIM&token_path=%2Fb3072bf7-6dbb-459b-97be-31b8f4cdc292%2F&expires=1791752411/b3072bf7-6dbb-459b-97be-31b8f4cdc292/playlist.m3u8",
+        "fallbackUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-z6MVj-2HYFj2_IbITaQ5s3GxLdyGvyrtaOOlKlHKGIM&token_path=%2Fb3072bf7-6dbb-459b-97be-31b8f4cdc292%2F&expires=1791752411/b3072bf7-6dbb-459b-97be-31b8f4cdc292/play_720p.mp4",
+        "locked": false
+      },
+      {
+        "id": "10072_segment_3",
+        "videoId": "10072",
+        "visibility": "hidden",
+        "locked": true,
+        "segmentIndex": 3,
+        "durationMs": 55767,
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600
+      },
+      {
+        "id": "10072_segment_4",
+        "videoId": "10072",
+        "visibility": "hidden",
+        "locked": true,
+        "segmentIndex": 4,
+        "durationMs": 58300,
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600
+      }
+    ]
+  },
+  {
     "videoId": "10071",
     "title": "Take Both",
     "tags": [
