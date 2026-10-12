@@ -1,5 +1,237 @@
 [
   {
+    "videoId": "10074",
+    "title": "Western Consort",
+    "tags": [
+      "For man",
+      "Power",
+      "Classic"
+    ],
+    "currentSegment": {
+      "id": "10074_segment_0",
+      "videoId": "10074",
+      "segmentIndex": 0,
+      "visibility": "public",
+      "assetKey": "ebf5a2df-a815-4134-8012-3ffece583417",
+      "singleAudioAssetKey": "17792afc-a79f-4d1a-8460-56bc58e7f6cc",
+      "multiAudioAssetKey": "ebf5a2df-a815-4134-8012-3ffece583417",
+      "publishedAudioVariant": "multi",
+      "assetSource": "bunny_stream",
+      "imageUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-BT6UtD3hqcgDDgEkk7Ssoip89Q5kELXoSenPjci-yZo&token_path=%2F17792afc-a79f-4d1a-8460-56bc58e7f6cc%2F&expires=1791838812/17792afc-a79f-4d1a-8460-56bc58e7f6cc/thumbnail.jpg",
+      "mediaType": "video",
+      "aspectRatio": "9:16",
+      "width": 900,
+      "height": 1600,
+      "durationMs": 33633,
+      "audioLanguages": [
+        "zh",
+        "en",
+        "ko"
+      ],
+      "speechLanguage": "zh",
+      "hasHumanSpeech": null,
+      "signedUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-3hINmxRC7KGDfVnGmM3hNItjBCjetYinft-HLQZeOa4&token_path=%2Febf5a2df-a815-4134-8012-3ffece583417%2F&expires=1791838812/ebf5a2df-a815-4134-8012-3ffece583417/playlist.m3u8",
+      "fallbackUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-3hINmxRC7KGDfVnGmM3hNItjBCjetYinft-HLQZeOa4&token_path=%2Febf5a2df-a815-4134-8012-3ffece583417%2F&expires=1791838812/ebf5a2df-a815-4134-8012-3ffece583417/play_720p.mp4"
+    },
+    "unlockedHiddenSegmentCount": 2,
+    "nextContinueIndex": 3,
+    "accessExpiresAt": null,
+    "hiddenSegments": [
+      {
+        "id": "10074_segment_1",
+        "videoId": "10074",
+        "segmentIndex": 1,
+        "visibility": "hidden",
+        "assetKey": "cd057bce-a205-4b20-936f-bbab95e4f14d",
+        "singleAudioAssetKey": "b7b6cb2d-2fd6-444a-99be-2b7612eaa526",
+        "multiAudioAssetKey": "cd057bce-a205-4b20-936f-bbab95e4f14d",
+        "publishedAudioVariant": "multi",
+        "assetSource": "bunny_stream",
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600,
+        "durationMs": 56233,
+        "audioLanguages": [
+          "zh",
+          "en",
+          "ko"
+        ],
+        "speechLanguage": "zh",
+        "hasHumanSpeech": null,
+        "signedUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-_263uU26ojbXDUY7o1PkiZ2tJa1hNewBacrDsejmIyY&token_path=%2Fcd057bce-a205-4b20-936f-bbab95e4f14d%2F&expires=1791838812/cd057bce-a205-4b20-936f-bbab95e4f14d/playlist.m3u8",
+        "fallbackUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-_263uU26ojbXDUY7o1PkiZ2tJa1hNewBacrDsejmIyY&token_path=%2Fcd057bce-a205-4b20-936f-bbab95e4f14d%2F&expires=1791838812/cd057bce-a205-4b20-936f-bbab95e4f14d/play_720p.mp4",
+        "locked": false
+      },
+      {
+        "id": "10074_segment_2",
+        "videoId": "10074",
+        "segmentIndex": 2,
+        "visibility": "hidden",
+        "assetKey": "2f8134f7-e61d-4b2f-aa1f-f5d77a5e7ee5",
+        "singleAudioAssetKey": "2af97440-43a2-463e-8a32-840a4b41e88a",
+        "multiAudioAssetKey": "2f8134f7-e61d-4b2f-aa1f-f5d77a5e7ee5",
+        "publishedAudioVariant": "multi",
+        "assetSource": "bunny_stream",
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600,
+        "durationMs": 49967,
+        "audioLanguages": [
+          "zh",
+          "en",
+          "ko"
+        ],
+        "speechLanguage": "zh",
+        "hasHumanSpeech": null,
+        "signedUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-NA3WRCLGcgC40OOSYl4L9sW1qDf1uDiJpoSkxn27vPQ&token_path=%2F2f8134f7-e61d-4b2f-aa1f-f5d77a5e7ee5%2F&expires=1791838812/2f8134f7-e61d-4b2f-aa1f-f5d77a5e7ee5/playlist.m3u8",
+        "fallbackUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-NA3WRCLGcgC40OOSYl4L9sW1qDf1uDiJpoSkxn27vPQ&token_path=%2F2f8134f7-e61d-4b2f-aa1f-f5d77a5e7ee5%2F&expires=1791838812/2f8134f7-e61d-4b2f-aa1f-f5d77a5e7ee5/play_720p.mp4",
+        "locked": false
+      },
+      {
+        "id": "10074_segment_3",
+        "videoId": "10074",
+        "visibility": "hidden",
+        "locked": true,
+        "segmentIndex": 3,
+        "durationMs": 56633,
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600
+      },
+      {
+        "id": "10074_segment_4",
+        "videoId": "10074",
+        "visibility": "hidden",
+        "locked": true,
+        "segmentIndex": 4,
+        "durationMs": 63414,
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "videoId": "10073",
+    "title": "Rules of Bully",
+    "tags": [
+      "For all",
+      "Romance",
+      "Urban"
+    ],
+    "currentSegment": {
+      "id": "10073_segment_0",
+      "videoId": "10073",
+      "segmentIndex": 0,
+      "visibility": "public",
+      "assetKey": "61f00331-466f-4435-bf48-30d8334d3068",
+      "singleAudioAssetKey": "2042a141-4cae-4804-8769-d9846e92e177",
+      "multiAudioAssetKey": "61f00331-466f-4435-bf48-30d8334d3068",
+      "publishedAudioVariant": "multi",
+      "assetSource": "bunny_stream",
+      "imageUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-JEuUKloOuP8FXdj2tEBZ8UcJ0LnQbXDqMSxV-iL3il4&token_path=%2F2042a141-4cae-4804-8769-d9846e92e177%2F&expires=1791838810/2042a141-4cae-4804-8769-d9846e92e177/thumbnail.jpg",
+      "mediaType": "video",
+      "aspectRatio": "9:16",
+      "width": 900,
+      "height": 1600,
+      "durationMs": 44600,
+      "audioLanguages": [
+        "zh",
+        "en",
+        "ko"
+      ],
+      "speechLanguage": "zh",
+      "hasHumanSpeech": null,
+      "signedUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-RVur15y83k8ay5K-0eZvbQGJyw3OwKLB-gwoFHTx6Sc&token_path=%2F61f00331-466f-4435-bf48-30d8334d3068%2F&expires=1791838810/61f00331-466f-4435-bf48-30d8334d3068/playlist.m3u8",
+      "fallbackUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-RVur15y83k8ay5K-0eZvbQGJyw3OwKLB-gwoFHTx6Sc&token_path=%2F61f00331-466f-4435-bf48-30d8334d3068%2F&expires=1791838810/61f00331-466f-4435-bf48-30d8334d3068/play_720p.mp4"
+    },
+    "unlockedHiddenSegmentCount": 2,
+    "nextContinueIndex": 3,
+    "accessExpiresAt": null,
+    "hiddenSegments": [
+      {
+        "id": "10073_segment_1",
+        "videoId": "10073",
+        "segmentIndex": 1,
+        "visibility": "hidden",
+        "assetKey": "eff32896-8e80-4e8e-b2b9-3de7dbff6118",
+        "singleAudioAssetKey": "8b7e1a8f-cee0-4b2d-8839-35700869feda",
+        "multiAudioAssetKey": "eff32896-8e80-4e8e-b2b9-3de7dbff6118",
+        "publishedAudioVariant": "multi",
+        "assetSource": "bunny_stream",
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600,
+        "durationMs": 59700,
+        "audioLanguages": [
+          "zh",
+          "en",
+          "ko"
+        ],
+        "speechLanguage": "zh",
+        "hasHumanSpeech": null,
+        "signedUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-cE6zGuPzpYER24HEZIeVVFXJLcJL5pBiKUVyR7o5HnY&token_path=%2Feff32896-8e80-4e8e-b2b9-3de7dbff6118%2F&expires=1791838810/eff32896-8e80-4e8e-b2b9-3de7dbff6118/playlist.m3u8",
+        "fallbackUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-cE6zGuPzpYER24HEZIeVVFXJLcJL5pBiKUVyR7o5HnY&token_path=%2Feff32896-8e80-4e8e-b2b9-3de7dbff6118%2F&expires=1791838810/eff32896-8e80-4e8e-b2b9-3de7dbff6118/play_720p.mp4",
+        "locked": false
+      },
+      {
+        "id": "10073_segment_2",
+        "videoId": "10073",
+        "segmentIndex": 2,
+        "visibility": "hidden",
+        "assetKey": "9fbe1631-3b9e-45fb-b5c3-978b0d2e1312",
+        "singleAudioAssetKey": "04da0c28-9349-4392-8812-43d9e84258e2",
+        "multiAudioAssetKey": "9fbe1631-3b9e-45fb-b5c3-978b0d2e1312",
+        "publishedAudioVariant": "multi",
+        "assetSource": "bunny_stream",
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600,
+        "durationMs": 55100,
+        "audioLanguages": [
+          "zh",
+          "en",
+          "ko"
+        ],
+        "speechLanguage": "zh",
+        "hasHumanSpeech": null,
+        "signedUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-P8LNSlb-fyAE_gepOF756DJBGAY9IWYSB5EDA0tPSGw&token_path=%2F9fbe1631-3b9e-45fb-b5c3-978b0d2e1312%2F&expires=1791838810/9fbe1631-3b9e-45fb-b5c3-978b0d2e1312/playlist.m3u8",
+        "fallbackUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-P8LNSlb-fyAE_gepOF756DJBGAY9IWYSB5EDA0tPSGw&token_path=%2F9fbe1631-3b9e-45fb-b5c3-978b0d2e1312%2F&expires=1791838810/9fbe1631-3b9e-45fb-b5c3-978b0d2e1312/play_720p.mp4",
+        "locked": false
+      },
+      {
+        "id": "10073_segment_3",
+        "videoId": "10073",
+        "visibility": "hidden",
+        "locked": true,
+        "segmentIndex": 3,
+        "durationMs": 54167,
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600
+      },
+      {
+        "id": "10073_segment_4",
+        "videoId": "10073",
+        "visibility": "hidden",
+        "locked": true,
+        "segmentIndex": 4,
+        "durationMs": 48500,
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600
+      }
+    ]
+  },
+  {
     "videoId": "10072",
     "title": "Lessons of Dao",
     "tags": [
