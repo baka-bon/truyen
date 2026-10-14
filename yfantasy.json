@@ -1,5 +1,121 @@
 [
   {
+    "videoId": "10075",
+    "title": "Ghost’s Fate",
+    "tags": [
+      "For all",
+      "Romance",
+      "Fantasy"
+    ],
+    "currentSegment": {
+      "id": "10075_segment_0",
+      "videoId": "10075",
+      "segmentIndex": 0,
+      "visibility": "public",
+      "assetKey": "e92f2e3d-718e-4a26-8125-48a26013b0a4",
+      "singleAudioAssetKey": "7d10d719-be45-459e-9578-050b57a5da24",
+      "multiAudioAssetKey": "e92f2e3d-718e-4a26-8125-48a26013b0a4",
+      "publishedAudioVariant": "multi",
+      "assetSource": "bunny_stream",
+      "imageUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-aVIiL6rXQpCDuRGSrmMG4ZPmIud3t7n3UpYGnzJt-kU&token_path=%2F7d10d719-be45-459e-9578-050b57a5da24%2F&expires=1792011610/7d10d719-be45-459e-9578-050b57a5da24/thumbnail.jpg",
+      "mediaType": "video",
+      "aspectRatio": "9:16",
+      "width": 900,
+      "height": 1600,
+      "durationMs": 35016,
+      "audioLanguages": [
+        "zh",
+        "en",
+        "ko"
+      ],
+      "speechLanguage": "zh",
+      "hasHumanSpeech": null,
+      "signedUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-fPBwm2__9I8bXr2MuA9QtxBpDZPkwIHwsGPtId2p6ak&token_path=%2Fe92f2e3d-718e-4a26-8125-48a26013b0a4%2F&expires=1792011610/e92f2e3d-718e-4a26-8125-48a26013b0a4/playlist.m3u8",
+      "fallbackUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-fPBwm2__9I8bXr2MuA9QtxBpDZPkwIHwsGPtId2p6ak&token_path=%2Fe92f2e3d-718e-4a26-8125-48a26013b0a4%2F&expires=1792011610/e92f2e3d-718e-4a26-8125-48a26013b0a4/play_720p.mp4"
+    },
+    "unlockedHiddenSegmentCount": 2,
+    "nextContinueIndex": 3,
+    "accessExpiresAt": null,
+    "hiddenSegments": [
+      {
+        "id": "10075_segment_1",
+        "videoId": "10075",
+        "segmentIndex": 1,
+        "visibility": "hidden",
+        "assetKey": "6bc657a7-0ce0-4801-85d1-57259921cad7",
+        "singleAudioAssetKey": "609660e7-b147-442e-bf26-c00c3d4f0cf2",
+        "multiAudioAssetKey": "6bc657a7-0ce0-4801-85d1-57259921cad7",
+        "publishedAudioVariant": "multi",
+        "assetSource": "bunny_stream",
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600,
+        "durationMs": 46580,
+        "audioLanguages": [
+          "zh",
+          "en",
+          "ko"
+        ],
+        "speechLanguage": "zh",
+        "hasHumanSpeech": null,
+        "signedUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-cxwkTf31AdM7Nku_xsWCZhUxGlD_BYNN12Iv3Zv-0rU&token_path=%2F6bc657a7-0ce0-4801-85d1-57259921cad7%2F&expires=1792011610/6bc657a7-0ce0-4801-85d1-57259921cad7/playlist.m3u8",
+        "fallbackUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-cxwkTf31AdM7Nku_xsWCZhUxGlD_BYNN12Iv3Zv-0rU&token_path=%2F6bc657a7-0ce0-4801-85d1-57259921cad7%2F&expires=1792011610/6bc657a7-0ce0-4801-85d1-57259921cad7/play_720p.mp4",
+        "locked": false
+      },
+      {
+        "id": "10075_segment_2",
+        "videoId": "10075",
+        "segmentIndex": 2,
+        "visibility": "hidden",
+        "assetKey": "f9e4e47d-faed-4008-99ac-6806f61ab364",
+        "singleAudioAssetKey": "3e041e8d-ab82-4f0e-bd51-697926e66929",
+        "multiAudioAssetKey": "f9e4e47d-faed-4008-99ac-6806f61ab364",
+        "publishedAudioVariant": "multi",
+        "assetSource": "bunny_stream",
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600,
+        "durationMs": 49250,
+        "audioLanguages": [
+          "zh",
+          "en",
+          "ko"
+        ],
+        "speechLanguage": "zh",
+        "hasHumanSpeech": null,
+        "signedUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-IUnlrm-3oK1AjmstKCZ8ppcRov4zSwXs8nNZVTRiqiM&token_path=%2Ff9e4e47d-faed-4008-99ac-6806f61ab364%2F&expires=1792011610/f9e4e47d-faed-4008-99ac-6806f61ab364/playlist.m3u8",
+        "fallbackUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-IUnlrm-3oK1AjmstKCZ8ppcRov4zSwXs8nNZVTRiqiM&token_path=%2Ff9e4e47d-faed-4008-99ac-6806f61ab364%2F&expires=1792011610/f9e4e47d-faed-4008-99ac-6806f61ab364/play_720p.mp4",
+        "locked": false
+      },
+      {
+        "id": "10075_segment_3",
+        "videoId": "10075",
+        "visibility": "hidden",
+        "locked": true,
+        "segmentIndex": 3,
+        "durationMs": 54057,
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600
+      },
+      {
+        "id": "10075_segment_4",
+        "videoId": "10075",
+        "visibility": "hidden",
+        "locked": true,
+        "segmentIndex": 4,
+        "durationMs": 58445,
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600
+      }
+    ]
+  },
+  {
     "videoId": "10074",
     "title": "Western Consort",
     "tags": [
