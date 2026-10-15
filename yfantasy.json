@@ -1,5 +1,237 @@
 [
   {
+    "videoId": "10077",
+    "title": "Fake Eunuch",
+    "tags": [
+      "For all",
+      "Romance",
+      "Classic"
+    ],
+    "currentSegment": {
+      "id": "10077_segment_0",
+      "videoId": "10077",
+      "segmentIndex": 0,
+      "visibility": "public",
+      "assetKey": "0657a1c6-a0fa-4edc-942a-06b5083b7cba",
+      "singleAudioAssetKey": "0004d4c4-6e1c-4f45-a2cf-8feb09fd064f",
+      "multiAudioAssetKey": "0657a1c6-a0fa-4edc-942a-06b5083b7cba",
+      "publishedAudioVariant": "multi",
+      "assetSource": "bunny_stream",
+      "imageUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-NTc1oeN5A5LFQ1ACRxRJ56Z8elRvBeLgbgytIvM3mTQ&token_path=%2F0004d4c4-6e1c-4f45-a2cf-8feb09fd064f%2F&expires=1792098014/0004d4c4-6e1c-4f45-a2cf-8feb09fd064f/thumbnail.jpg",
+      "mediaType": "video",
+      "aspectRatio": "9:16",
+      "width": 900,
+      "height": 1600,
+      "durationMs": 30067,
+      "audioLanguages": [
+        "zh",
+        "en",
+        "ko"
+      ],
+      "speechLanguage": "zh",
+      "hasHumanSpeech": null,
+      "signedUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-2lpuLb3s-ZgOGlluz7VlZ2U5_n5BATvTVOEP3uL6h6g&token_path=%2F0657a1c6-a0fa-4edc-942a-06b5083b7cba%2F&expires=1792098014/0657a1c6-a0fa-4edc-942a-06b5083b7cba/playlist.m3u8",
+      "fallbackUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-2lpuLb3s-ZgOGlluz7VlZ2U5_n5BATvTVOEP3uL6h6g&token_path=%2F0657a1c6-a0fa-4edc-942a-06b5083b7cba%2F&expires=1792098014/0657a1c6-a0fa-4edc-942a-06b5083b7cba/play_720p.mp4"
+    },
+    "unlockedHiddenSegmentCount": 2,
+    "nextContinueIndex": 3,
+    "accessExpiresAt": null,
+    "hiddenSegments": [
+      {
+        "id": "10077_segment_1",
+        "videoId": "10077",
+        "segmentIndex": 1,
+        "visibility": "hidden",
+        "assetKey": "a3b09bc8-c417-47e1-b5bc-4698b1d034ca",
+        "singleAudioAssetKey": "251952c4-80a1-4938-b1d0-b468feedc559",
+        "multiAudioAssetKey": "a3b09bc8-c417-47e1-b5bc-4698b1d034ca",
+        "publishedAudioVariant": "multi",
+        "assetSource": "bunny_stream",
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600,
+        "durationMs": 53833,
+        "audioLanguages": [
+          "zh",
+          "en",
+          "ko"
+        ],
+        "speechLanguage": "zh",
+        "hasHumanSpeech": null,
+        "signedUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-t3uQIxyGDVcmEZHegiOw-qsJHUC1UDqzJkqBr20A2b4&token_path=%2Fa3b09bc8-c417-47e1-b5bc-4698b1d034ca%2F&expires=1792098014/a3b09bc8-c417-47e1-b5bc-4698b1d034ca/playlist.m3u8",
+        "fallbackUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-t3uQIxyGDVcmEZHegiOw-qsJHUC1UDqzJkqBr20A2b4&token_path=%2Fa3b09bc8-c417-47e1-b5bc-4698b1d034ca%2F&expires=1792098014/a3b09bc8-c417-47e1-b5bc-4698b1d034ca/play_720p.mp4",
+        "locked": false
+      },
+      {
+        "id": "10077_segment_2",
+        "videoId": "10077",
+        "segmentIndex": 2,
+        "visibility": "hidden",
+        "assetKey": "fc788d15-5a11-4fee-b5c2-44630b84ea2b",
+        "singleAudioAssetKey": "dd81be53-e812-4402-9f50-1656f360263e",
+        "multiAudioAssetKey": "fc788d15-5a11-4fee-b5c2-44630b84ea2b",
+        "publishedAudioVariant": "multi",
+        "assetSource": "bunny_stream",
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600,
+        "durationMs": 66990,
+        "audioLanguages": [
+          "zh",
+          "en",
+          "ko"
+        ],
+        "speechLanguage": "zh",
+        "hasHumanSpeech": null,
+        "signedUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256--XH7kQnLGhW-KYvM2OFb2xMkkFubRZ7qpgynFoXWRUk&token_path=%2Ffc788d15-5a11-4fee-b5c2-44630b84ea2b%2F&expires=1792098014/fc788d15-5a11-4fee-b5c2-44630b84ea2b/playlist.m3u8",
+        "fallbackUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256--XH7kQnLGhW-KYvM2OFb2xMkkFubRZ7qpgynFoXWRUk&token_path=%2Ffc788d15-5a11-4fee-b5c2-44630b84ea2b%2F&expires=1792098014/fc788d15-5a11-4fee-b5c2-44630b84ea2b/play_720p.mp4",
+        "locked": false
+      },
+      {
+        "id": "10077_segment_3",
+        "videoId": "10077",
+        "visibility": "hidden",
+        "locked": true,
+        "segmentIndex": 3,
+        "durationMs": 66851,
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600
+      },
+      {
+        "id": "10077_segment_4",
+        "videoId": "10077",
+        "visibility": "hidden",
+        "locked": true,
+        "segmentIndex": 4,
+        "durationMs": 71889,
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "videoId": "10076",
+    "title": "Trip Trap",
+    "tags": [
+      "For all",
+      "Romance",
+      "Urban"
+    ],
+    "currentSegment": {
+      "id": "10076_segment_0",
+      "videoId": "10076",
+      "segmentIndex": 0,
+      "visibility": "public",
+      "assetKey": "8caec16b-6369-4356-a858-ee4b1419a0c7",
+      "singleAudioAssetKey": "af5efda5-8fdf-4eca-8eb5-85635f48fc89",
+      "multiAudioAssetKey": "8caec16b-6369-4356-a858-ee4b1419a0c7",
+      "publishedAudioVariant": "multi",
+      "assetSource": "bunny_stream",
+      "imageUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-R2mlZ8ONA10APCckdfMQr_NXkeLw37oCCfWBQtHrtng&token_path=%2Faf5efda5-8fdf-4eca-8eb5-85635f48fc89%2F&expires=1792098011/af5efda5-8fdf-4eca-8eb5-85635f48fc89/thumbnail.jpg",
+      "mediaType": "video",
+      "aspectRatio": "9:16",
+      "width": 900,
+      "height": 1600,
+      "durationMs": 34533,
+      "audioLanguages": [
+        "zh",
+        "en",
+        "ko"
+      ],
+      "speechLanguage": "zh",
+      "hasHumanSpeech": null,
+      "signedUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-NYO3lWrhIkfMZoLFhKmripEBPs6VsI1afoj9aFsKoAI&token_path=%2F8caec16b-6369-4356-a858-ee4b1419a0c7%2F&expires=1792098011/8caec16b-6369-4356-a858-ee4b1419a0c7/playlist.m3u8",
+      "fallbackUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-NYO3lWrhIkfMZoLFhKmripEBPs6VsI1afoj9aFsKoAI&token_path=%2F8caec16b-6369-4356-a858-ee4b1419a0c7%2F&expires=1792098011/8caec16b-6369-4356-a858-ee4b1419a0c7/play_720p.mp4"
+    },
+    "unlockedHiddenSegmentCount": 2,
+    "nextContinueIndex": 3,
+    "accessExpiresAt": null,
+    "hiddenSegments": [
+      {
+        "id": "10076_segment_1",
+        "videoId": "10076",
+        "segmentIndex": 1,
+        "visibility": "hidden",
+        "assetKey": "6a7521fd-4226-4e5c-bced-26d9117c3ad8",
+        "singleAudioAssetKey": "4f5ba2cc-5c49-402e-8517-67bbef30fcac",
+        "multiAudioAssetKey": "6a7521fd-4226-4e5c-bced-26d9117c3ad8",
+        "publishedAudioVariant": "multi",
+        "assetSource": "bunny_stream",
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600,
+        "durationMs": 53167,
+        "audioLanguages": [
+          "zh",
+          "en",
+          "ko"
+        ],
+        "speechLanguage": "zh",
+        "hasHumanSpeech": null,
+        "signedUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-lM5IDr7OVjGEowASU7RXW55px7gAObDDk47W2QWznfs&token_path=%2F6a7521fd-4226-4e5c-bced-26d9117c3ad8%2F&expires=1792098011/6a7521fd-4226-4e5c-bced-26d9117c3ad8/playlist.m3u8",
+        "fallbackUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-lM5IDr7OVjGEowASU7RXW55px7gAObDDk47W2QWznfs&token_path=%2F6a7521fd-4226-4e5c-bced-26d9117c3ad8%2F&expires=1792098011/6a7521fd-4226-4e5c-bced-26d9117c3ad8/play_720p.mp4",
+        "locked": false
+      },
+      {
+        "id": "10076_segment_2",
+        "videoId": "10076",
+        "segmentIndex": 2,
+        "visibility": "hidden",
+        "assetKey": "bd3fb1dc-118e-458b-90dd-1c48c6e982e2",
+        "singleAudioAssetKey": "6b1ff498-9d92-4fdb-8b62-1f0335d53234",
+        "multiAudioAssetKey": "bd3fb1dc-118e-458b-90dd-1c48c6e982e2",
+        "publishedAudioVariant": "multi",
+        "assetSource": "bunny_stream",
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600,
+        "durationMs": 56067,
+        "audioLanguages": [
+          "zh",
+          "en",
+          "ko"
+        ],
+        "speechLanguage": "zh",
+        "hasHumanSpeech": null,
+        "signedUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-3HQvVpTkzVAlUwtlviYpLVe2GzF38b4z9DNhxxFibDs&token_path=%2Fbd3fb1dc-118e-458b-90dd-1c48c6e982e2%2F&expires=1792098011/bd3fb1dc-118e-458b-90dd-1c48c6e982e2/playlist.m3u8",
+        "fallbackUrl": "https://shorts-video-secure-20261005.b-cdn.net/bcdn_token=HS256-3HQvVpTkzVAlUwtlviYpLVe2GzF38b4z9DNhxxFibDs&token_path=%2Fbd3fb1dc-118e-458b-90dd-1c48c6e982e2%2F&expires=1792098011/bd3fb1dc-118e-458b-90dd-1c48c6e982e2/play_720p.mp4",
+        "locked": false
+      },
+      {
+        "id": "10076_segment_3",
+        "videoId": "10076",
+        "visibility": "hidden",
+        "locked": true,
+        "segmentIndex": 3,
+        "durationMs": 47267,
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600
+      },
+      {
+        "id": "10076_segment_4",
+        "videoId": "10076",
+        "visibility": "hidden",
+        "locked": true,
+        "segmentIndex": 4,
+        "durationMs": 53367,
+        "mediaType": "video",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600
+      }
+    ]
+  },
+  {
     "videoId": "10075",
     "title": "Ghost’s Fate",
     "tags": [
