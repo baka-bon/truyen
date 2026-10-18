@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #
 # yfantasy-collect.sh — walk a range of video IDs through yfantasy-flow.sh
-# and collect the resulting JSON session objects into yfantasy.json.
+# and collect the resulting video session objects into yfantasy.json.
 #
 # Usage: ./yfantasy-collect.sh [START_ID]
 #
@@ -15,7 +15,8 @@
 # calls
 #   ./yfantasy-flow.sh <ID>
 # and expects yfantasy-flow.sh to be in quiet mode (VERBOSE=0), so its only
-# stdout output is the raw JSON response body from its last step.
+# stdout output is the one-line session JSON object, already stripped of
+# segment playback URLs and asset keys.
 #
 # As soon as a call fails (yfantasy-flow.sh exits non-zero — e.g. a non-2xx
 # HTTP status at any step, such as VIDEO_NOT_FOUND once the ID range runs
