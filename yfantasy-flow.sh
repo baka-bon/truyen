@@ -19,7 +19,8 @@
 #   video   : videoId, title, tags, currentSegment, unlockedHiddenSegmentCount,
 #             hiddenSegments
 #   segment : id, segmentIndex, visibility, locked, aspectRatio, width, height,
-#             durationMs, audioLanguages, speechLanguage, hasHumanSpeech
+#             durationMs, audioLanguages, publishedAudioVariant,
+#             speechLanguage, hasHumanSpeech
 # Curly single quotes (‘ ’) in the title are normalized to a plain '.
 #
 # Requires: bash, curl, uuidgen, sed, jq
@@ -296,8 +297,8 @@ SAMPLE_RESPONSE_4
 jq -c --arg apostrophe "'" '
   def only($names): with_entries(select(.key | IN($names[])));
   ["id", "segmentIndex", "visibility", "locked", "aspectRatio", "width",
-   "height", "durationMs", "audioLanguages", "speechLanguage",
-   "hasHumanSpeech"] as $segment_fields
+   "height", "durationMs", "audioLanguages", "publishedAudioVariant",
+   "speechLanguage", "hasHumanSpeech"] as $segment_fields
   | only(["videoId", "title", "tags", "currentSegment",
           "unlockedHiddenSegmentCount", "hiddenSegments"])
   | (.title | strings) |= gsub("[‘’]"; $apostrophe)
