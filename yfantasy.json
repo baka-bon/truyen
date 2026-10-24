@@ -1,5 +1,187 @@
 [
   {
+    "videoId": "10079",
+    "title": "Dual Cultivation",
+    "tags": [
+      "For all",
+      "Power",
+      "Wuxia"
+    ],
+    "currentSegment": {
+      "id": "10079_segment_0",
+      "segmentIndex": 0,
+      "visibility": "public",
+      "publishedAudioVariant": "multi",
+      "aspectRatio": "9:16",
+      "width": 900,
+      "height": 1600,
+      "durationMs": 30900,
+      "audioLanguages": [
+        "zh",
+        "en",
+        "ko",
+        "vi",
+        "th"
+      ],
+      "speechLanguage": "zh",
+      "hasHumanSpeech": null
+    },
+    "unlockedHiddenSegmentCount": 2,
+    "hiddenSegments": [
+      {
+        "id": "10079_segment_1",
+        "segmentIndex": 1,
+        "visibility": "hidden",
+        "publishedAudioVariant": "multi",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600,
+        "durationMs": 61324,
+        "audioLanguages": [
+          "zh",
+          "en",
+          "ko",
+          "vi",
+          "th"
+        ],
+        "speechLanguage": "zh",
+        "hasHumanSpeech": null,
+        "locked": false
+      },
+      {
+        "id": "10079_segment_2",
+        "segmentIndex": 2,
+        "visibility": "hidden",
+        "publishedAudioVariant": "multi",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600,
+        "durationMs": 62067,
+        "audioLanguages": [
+          "zh",
+          "en",
+          "ko",
+          "vi",
+          "th"
+        ],
+        "speechLanguage": "zh",
+        "hasHumanSpeech": null,
+        "locked": false
+      },
+      {
+        "id": "10079_segment_3",
+        "visibility": "hidden",
+        "locked": true,
+        "segmentIndex": 3,
+        "durationMs": 53700,
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600
+      },
+      {
+        "id": "10079_segment_4",
+        "visibility": "hidden",
+        "locked": true,
+        "segmentIndex": 4,
+        "durationMs": 66386,
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "videoId": "10078",
+    "title": "Temptation of Dao",
+    "tags": [
+      "For all",
+      "Reverse",
+      "Wuxia"
+    ],
+    "currentSegment": {
+      "id": "10078_segment_0",
+      "segmentIndex": 0,
+      "visibility": "public",
+      "publishedAudioVariant": "multi",
+      "aspectRatio": "9:16",
+      "width": 900,
+      "height": 1600,
+      "durationMs": 47000,
+      "audioLanguages": [
+        "zh",
+        "en",
+        "ko",
+        "vi",
+        "th"
+      ],
+      "speechLanguage": "zh",
+      "hasHumanSpeech": null
+    },
+    "unlockedHiddenSegmentCount": 2,
+    "hiddenSegments": [
+      {
+        "id": "10078_segment_1",
+        "segmentIndex": 1,
+        "visibility": "hidden",
+        "publishedAudioVariant": "multi",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600,
+        "durationMs": 56300,
+        "audioLanguages": [
+          "zh",
+          "en",
+          "ko",
+          "vi",
+          "th"
+        ],
+        "speechLanguage": "zh",
+        "hasHumanSpeech": null,
+        "locked": false
+      },
+      {
+        "id": "10078_segment_2",
+        "segmentIndex": 2,
+        "visibility": "hidden",
+        "publishedAudioVariant": "multi",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600,
+        "durationMs": 57733,
+        "audioLanguages": [
+          "zh",
+          "en",
+          "ko",
+          "vi",
+          "th"
+        ],
+        "speechLanguage": "zh",
+        "hasHumanSpeech": null,
+        "locked": false
+      },
+      {
+        "id": "10078_segment_3",
+        "visibility": "hidden",
+        "locked": true,
+        "segmentIndex": 3,
+        "durationMs": 53667,
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600
+      },
+      {
+        "id": "10078_segment_4",
+        "visibility": "hidden",
+        "locked": true,
+        "segmentIndex": 4,
+        "durationMs": 64297,
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600
+      }
+    ]
+  },
+  {
     "videoId": "10077",
     "title": "Fake Eunuch",
     "tags": [
