@@ -1,5 +1,99 @@
 [
   {
+    "videoId": "10080",
+    "title": "Forgiving Love",
+    "tags": [
+      "For all",
+      "Romance",
+      "Classic"
+    ],
+    "currentSegment": {
+      "id": "10080_segment_0",
+      "segmentIndex": 0,
+      "visibility": "public",
+      "publishedAudioVariant": "multi",
+      "aspectRatio": "9:16",
+      "width": 900,
+      "height": 1600,
+      "durationMs": 36533,
+      "audioLanguages": [
+        "zh",
+        "en",
+        "ko",
+        "ms",
+        "vi",
+        "th"
+      ],
+      "speechLanguage": "zh",
+      "hasHumanSpeech": null
+    },
+    "unlockedHiddenSegmentCount": 2,
+    "hiddenSegments": [
+      {
+        "id": "10080_segment_1",
+        "segmentIndex": 1,
+        "visibility": "hidden",
+        "publishedAudioVariant": "multi",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600,
+        "durationMs": 47100,
+        "audioLanguages": [
+          "zh",
+          "en",
+          "ko",
+          "ms",
+          "vi",
+          "th"
+        ],
+        "speechLanguage": "zh",
+        "hasHumanSpeech": null,
+        "locked": false
+      },
+      {
+        "id": "10080_segment_2",
+        "segmentIndex": 2,
+        "visibility": "hidden",
+        "publishedAudioVariant": "multi",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600,
+        "durationMs": 54700,
+        "audioLanguages": [
+          "zh",
+          "en",
+          "ko",
+          "ms",
+          "vi",
+          "th"
+        ],
+        "speechLanguage": "zh",
+        "hasHumanSpeech": null,
+        "locked": false
+      },
+      {
+        "id": "10080_segment_3",
+        "visibility": "hidden",
+        "locked": true,
+        "segmentIndex": 3,
+        "durationMs": 48567,
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600
+      },
+      {
+        "id": "10080_segment_4",
+        "visibility": "hidden",
+        "locked": true,
+        "segmentIndex": 4,
+        "durationMs": 59567,
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600
+      }
+    ]
+  },
+  {
     "videoId": "10079",
     "title": "Dual Cultivation",
     "tags": [
