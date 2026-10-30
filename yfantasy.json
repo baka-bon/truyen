@@ -1,5 +1,96 @@
 [
   {
+    "videoId": "10082",
+    "title": "Take Advantage",
+    "tags": [
+      "For all",
+      "Reverse",
+      "Urban"
+    ],
+    "currentSegment": {
+      "id": "10082_segment_0",
+      "segmentIndex": 0,
+      "visibility": "public",
+      "publishedAudioVariant": "multi",
+      "aspectRatio": "9:16",
+      "width": 900,
+      "height": 1600,
+      "durationMs": 35806,
+      "audioLanguages": [
+        "zh",
+        "en",
+        "ko",
+        "vi",
+        "th"
+      ],
+      "speechLanguage": "zh",
+      "hasHumanSpeech": null
+    },
+    "unlockedHiddenSegmentCount": 2,
+    "hiddenSegments": [
+      {
+        "id": "10082_segment_1",
+        "segmentIndex": 1,
+        "visibility": "hidden",
+        "publishedAudioVariant": "multi",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600,
+        "durationMs": 57656,
+        "audioLanguages": [
+          "zh",
+          "en",
+          "ko",
+          "vi",
+          "th"
+        ],
+        "speechLanguage": "zh",
+        "hasHumanSpeech": null,
+        "locked": false
+      },
+      {
+        "id": "10082_segment_2",
+        "segmentIndex": 2,
+        "visibility": "hidden",
+        "publishedAudioVariant": "multi",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600,
+        "durationMs": 53174,
+        "audioLanguages": [
+          "zh",
+          "en",
+          "ko",
+          "vi",
+          "th"
+        ],
+        "speechLanguage": "zh",
+        "hasHumanSpeech": null,
+        "locked": false
+      },
+      {
+        "id": "10082_segment_3",
+        "visibility": "hidden",
+        "locked": true,
+        "segmentIndex": 3,
+        "durationMs": 52000,
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600
+      },
+      {
+        "id": "10082_segment_4",
+        "visibility": "hidden",
+        "locked": true,
+        "segmentIndex": 4,
+        "durationMs": 51781,
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600
+      }
+    ]
+  },
+  {
     "videoId": "10081",
     "title": "Diversity of Dao",
     "tags": [
