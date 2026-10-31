@@ -1,5 +1,99 @@
 [
   {
+    "videoId": "10083",
+    "title": "Go Astray",
+    "tags": [
+      "For man",
+      "Power",
+      "Urban"
+    ],
+    "currentSegment": {
+      "id": "10083_segment_0",
+      "segmentIndex": 0,
+      "visibility": "public",
+      "publishedAudioVariant": "multi",
+      "aspectRatio": "9:16",
+      "width": 900,
+      "height": 1600,
+      "durationMs": 44000,
+      "audioLanguages": [
+        "zh",
+        "en",
+        "ja",
+        "ko",
+        "vi",
+        "th"
+      ],
+      "speechLanguage": "ja",
+      "hasHumanSpeech": null
+    },
+    "unlockedHiddenSegmentCount": 2,
+    "hiddenSegments": [
+      {
+        "id": "10083_segment_1",
+        "segmentIndex": 1,
+        "visibility": "hidden",
+        "publishedAudioVariant": "multi",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600,
+        "durationMs": 58267,
+        "audioLanguages": [
+          "zh",
+          "en",
+          "ja",
+          "ko",
+          "vi",
+          "th"
+        ],
+        "speechLanguage": "ja",
+        "hasHumanSpeech": null,
+        "locked": false
+      },
+      {
+        "id": "10083_segment_2",
+        "segmentIndex": 2,
+        "visibility": "hidden",
+        "publishedAudioVariant": "multi",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600,
+        "durationMs": 62230,
+        "audioLanguages": [
+          "zh",
+          "en",
+          "ja",
+          "ko",
+          "vi",
+          "th"
+        ],
+        "speechLanguage": "ja",
+        "hasHumanSpeech": null,
+        "locked": false
+      },
+      {
+        "id": "10083_segment_3",
+        "visibility": "hidden",
+        "locked": true,
+        "segmentIndex": 3,
+        "durationMs": 57967,
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600
+      },
+      {
+        "id": "10083_segment_4",
+        "visibility": "hidden",
+        "locked": true,
+        "segmentIndex": 4,
+        "durationMs": 59600,
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600
+      }
+    ]
+  },
+  {
     "videoId": "10082",
     "title": "Take Advantage",
     "tags": [
