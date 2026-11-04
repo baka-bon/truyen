@@ -1,5 +1,187 @@
 [
   {
+    "videoId": "10085",
+    "title": "Temporary Relief",
+    "tags": [
+      "For all",
+      "Romance",
+      "Urban"
+    ],
+    "currentSegment": {
+      "id": "10085_segment_0",
+      "segmentIndex": 0,
+      "visibility": "public",
+      "publishedAudioVariant": "multi",
+      "aspectRatio": "9:16",
+      "width": 900,
+      "height": 1600,
+      "durationMs": 51084,
+      "audioLanguages": [
+        "zh",
+        "en",
+        "ko",
+        "vi",
+        "th"
+      ],
+      "speechLanguage": "ko",
+      "hasHumanSpeech": null
+    },
+    "unlockedHiddenSegmentCount": 2,
+    "hiddenSegments": [
+      {
+        "id": "10085_segment_1",
+        "segmentIndex": 1,
+        "visibility": "hidden",
+        "publishedAudioVariant": "multi",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600,
+        "durationMs": 51642,
+        "audioLanguages": [
+          "zh",
+          "en",
+          "ko",
+          "vi",
+          "th"
+        ],
+        "speechLanguage": "ko",
+        "hasHumanSpeech": null,
+        "locked": false
+      },
+      {
+        "id": "10085_segment_2",
+        "segmentIndex": 2,
+        "visibility": "hidden",
+        "publishedAudioVariant": "multi",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600,
+        "durationMs": 50086,
+        "audioLanguages": [
+          "zh",
+          "en",
+          "ko",
+          "vi",
+          "th"
+        ],
+        "speechLanguage": "ko",
+        "hasHumanSpeech": null,
+        "locked": false
+      },
+      {
+        "id": "10085_segment_3",
+        "visibility": "hidden",
+        "locked": true,
+        "segmentIndex": 3,
+        "durationMs": 50086,
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600
+      },
+      {
+        "id": "10085_segment_4",
+        "visibility": "hidden",
+        "locked": true,
+        "segmentIndex": 4,
+        "durationMs": 48089,
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "videoId": "10084",
+    "title": "Premium Service",
+    "tags": [
+      "For all",
+      "Massage",
+      "Urban"
+    ],
+    "currentSegment": {
+      "id": "10084_segment_0",
+      "segmentIndex": 0,
+      "visibility": "public",
+      "publishedAudioVariant": "multi",
+      "aspectRatio": "9:16",
+      "width": 900,
+      "height": 1600,
+      "durationMs": 28800,
+      "audioLanguages": [
+        "zh",
+        "en",
+        "ko",
+        "vi",
+        "th"
+      ],
+      "speechLanguage": "zh",
+      "hasHumanSpeech": null
+    },
+    "unlockedHiddenSegmentCount": 2,
+    "hiddenSegments": [
+      {
+        "id": "10084_segment_1",
+        "segmentIndex": 1,
+        "visibility": "hidden",
+        "publishedAudioVariant": "multi",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600,
+        "durationMs": 57867,
+        "audioLanguages": [
+          "zh",
+          "en",
+          "ko",
+          "vi",
+          "th"
+        ],
+        "speechLanguage": "zh",
+        "hasHumanSpeech": null,
+        "locked": false
+      },
+      {
+        "id": "10084_segment_2",
+        "segmentIndex": 2,
+        "visibility": "hidden",
+        "publishedAudioVariant": "multi",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600,
+        "durationMs": 53000,
+        "audioLanguages": [
+          "zh",
+          "en",
+          "ko",
+          "vi",
+          "th"
+        ],
+        "speechLanguage": "zh",
+        "hasHumanSpeech": null,
+        "locked": false
+      },
+      {
+        "id": "10084_segment_3",
+        "visibility": "hidden",
+        "locked": true,
+        "segmentIndex": 3,
+        "durationMs": 49933,
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600
+      },
+      {
+        "id": "10084_segment_4",
+        "visibility": "hidden",
+        "locked": true,
+        "segmentIndex": 4,
+        "durationMs": 80133,
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600
+      }
+    ]
+  },
+  {
     "videoId": "10083",
     "title": "Go Astray",
     "tags": [
