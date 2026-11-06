@@ -1,5 +1,96 @@
 [
   {
+    "videoId": "10086",
+    "title": "Dangerous Game",
+    "tags": [
+      "For all",
+      "Romance",
+      "Classic"
+    ],
+    "currentSegment": {
+      "id": "10086_segment_0",
+      "segmentIndex": 0,
+      "visibility": "public",
+      "publishedAudioVariant": "multi",
+      "aspectRatio": "9:16",
+      "width": 900,
+      "height": 1600,
+      "durationMs": 31133,
+      "audioLanguages": [
+        "zh",
+        "en",
+        "ko",
+        "vi",
+        "th"
+      ],
+      "speechLanguage": "zh",
+      "hasHumanSpeech": null
+    },
+    "unlockedHiddenSegmentCount": 2,
+    "hiddenSegments": [
+      {
+        "id": "10086_segment_1",
+        "segmentIndex": 1,
+        "visibility": "hidden",
+        "publishedAudioVariant": "multi",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600,
+        "durationMs": 60233,
+        "audioLanguages": [
+          "zh",
+          "en",
+          "ko",
+          "vi",
+          "th"
+        ],
+        "speechLanguage": "zh",
+        "hasHumanSpeech": null,
+        "locked": false
+      },
+      {
+        "id": "10086_segment_2",
+        "segmentIndex": 2,
+        "visibility": "hidden",
+        "publishedAudioVariant": "multi",
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600,
+        "durationMs": 51967,
+        "audioLanguages": [
+          "zh",
+          "en",
+          "ko",
+          "vi",
+          "th"
+        ],
+        "speechLanguage": "zh",
+        "hasHumanSpeech": null,
+        "locked": false
+      },
+      {
+        "id": "10086_segment_3",
+        "visibility": "hidden",
+        "locked": true,
+        "segmentIndex": 3,
+        "durationMs": 54100,
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600
+      },
+      {
+        "id": "10086_segment_4",
+        "visibility": "hidden",
+        "locked": true,
+        "segmentIndex": 4,
+        "durationMs": 66781,
+        "aspectRatio": "9:16",
+        "width": 900,
+        "height": 1600
+      }
+    ]
+  },
+  {
     "videoId": "10085",
     "title": "Temporary Relief",
     "tags": [
